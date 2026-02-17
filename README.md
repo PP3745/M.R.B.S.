@@ -1,3 +1,3 @@
 # M.R.B.S.
 
-= Meeting Room booking System
+= Meeting Room Booking System
